@@ -51,7 +51,7 @@ Use at your own risk.
 ![GUI](main.png)
 
 ---
-##🔧 How It Works
+## 🔧 How It Works
 The application controls GPU switching through a systemd oneshot service that runs a shell script with root privileges.
 
 When toggling Host → VFIO, the following happens:
